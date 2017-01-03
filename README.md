@@ -15,12 +15,23 @@
 ### Typeclasses
 
 * https://wiki.haskell.org/Typeclassopedia
+* http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html
 
 ### Monads
 
 #### mtl
 
 * https://blog.jle.im/entry/mtl-is-not-a-monad-transformer-library.html
+
+#### Misc
+
+* http://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf - Monads for functional programming
+* http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html
+* http://www.johndcook.com/blog/2014/03/03/monads-are-hard-because/
+
+### Lenses
+
+* http://adit.io/posts/2013-07-22-lenses-in-pictures.html
 
 ### Extensions
 
@@ -39,6 +50,18 @@
 * https://github.com/Gabriel439/post-rfc/blob/master/sotu.md - State of the Haskell ecosystem
 * http://www.stephendiehl.com/posts/essential_haskell.html - A Haskell Reading List
 * https://www.reddit.com/r/haskell/comments/4f47ou/why_does_haskell_in_your_opinion_suck/ - Large number of things that suck and what a possible solution to it is
+* http://ren.zone/articles/opaleye-sot - Type level programming within the context of Opaleye and SQL
+
+#### Folds
+
+* http://foldr.com
+* http://foldl.com
+
+### Libraries
+
+#### Aeson (JSON/YAML)
+
+* https://artyom.me/aeson
 
 ## Editors
 
