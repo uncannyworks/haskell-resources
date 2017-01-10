@@ -52,6 +52,10 @@
 * https://www.reddit.com/r/haskell/comments/4f47ou/why_does_haskell_in_your_opinion_suck/ - Large number of things that suck and what a possible solution to it is
 * http://ren.zone/articles/opaleye-sot - Type level programming within the context of Opaleye and SQL
 
+#### Opinionated
+
+* http://degoes.net/articles/insufficiently-polymorphic - Descriptive Variable Names: A Code Smell
+
 #### Folds
 
 * http://foldr.com
@@ -63,9 +67,17 @@
 
 * https://artyom.me/aeson
 
+### Testing
+
+* https://lexi-lambda.github.io/blog/2016/10/03/using-types-to-unit-test-in-haskell/
+
 ## Editors
 
 * https://github.com/syl20bnr/spacemacs/tree/master/layers/%2Blang/haskell
+
+## Fonts
+
+* https://github.com/tonsky/FiraCode
 
 ## Books
 
