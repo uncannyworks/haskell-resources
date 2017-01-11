@@ -10,6 +10,10 @@
 * https://www.haskell.org/hoogle/
 * http://hayoo.fh-wedel.de/
 
+## Tutorials
+
+* https://www.stackbuilders.com/tutorials/haskell/servant-auth/
+
 ## Blogs / Wikis
 
 ### Typeclasses
