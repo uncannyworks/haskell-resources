@@ -39,6 +39,9 @@
 
 ### Extensions
 
+* http://unbui.lt/#!/post/haskell-language-extensions/
+* https://ocharles.org.uk/blog/posts/2014-12-01-24-days-of-ghc-extensions.html
+
 #### RankNTypes
 
 * https://ocharles.org.uk/blog/guest-posts/2014-12-18-rank-n-types.html
