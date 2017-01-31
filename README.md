@@ -95,3 +95,7 @@
 ### Semi-Books
 
 * https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/
+
+## Videos
+
+* https://www.youtube.com/watch?v=LnX3B9oaKzw - Functional Programming & Haskell with John Hughes
